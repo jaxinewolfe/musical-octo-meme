@@ -47,3 +47,10 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# macOS file 
+.DS_Store
+
+# Other cache files or temporary folder
+temp/*
+~*
